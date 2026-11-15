@@ -1,0 +1,6 @@
+﻿The model was generated with warnings or errors.EntitysModelCMS.edmxPlease see the Error List for more details. These issues must be fixed before running your application.
+Loading metadata from the database took 00:00:01.7464166.
+Generating the model took 00:00:05.1496278.
+The model was generated with warnings or errors.EntitysModelCMS.edmxPlease see the Error List for more details. These issues must be fixed before running your application.
+Loading metadata from the database took 00:00:01.5295487.
+Generating the model took 00:00:02.9553917.
